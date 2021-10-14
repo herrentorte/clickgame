@@ -1,0 +1,20 @@
+body {
+  background-color: #FEF1B5;
+}
+
+button {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  background-color: #362819;
+  height: 50px;
+  width: 50px;
+  font-size: x-large;
+}
+
+.container {
+  border: 5px solid #BC7642;
+  width: 98vw;
+  height: 95vh;
+  position: relative;
+}
